@@ -1,3 +1,3 @@
-# hello
-test
-viet lan 1
+README
+
+Pet project in free-time
